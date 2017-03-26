@@ -1,163 +1,217 @@
 [{
   "id": 1560,
-  "name": "Agrisano"
+  "name": "Agrisano",
+  "location": "5200 Brugg"
 }, {
   "id": 1507,
-  "name": "AMB Assurances"
+  "name": "AMB Assurances",
+  "location": "1934 Le Châble"
 }, {
   "id": 32,
-  "name": "Aquilana"
+  "name": "Aquilana",
+  "location": "5401 Baden"
 }, {
   "id": 1569,
-  "name": "Arcosana"
+  "name": "Arcosana",
+  "location": "6002 Luzern"
 }, {
   "id": 1542,
-  "name": "Assura-Basis SA"
+  "name": "Assura-Basis SA",
+  "location": "1009 Pully"
 }, {
   "id": 312,
-  "name": "Atupri"
+  "name": "Atupri",
+  "location": "3000 Bern"
 }, {
   "id": 343,
-  "name": "Avenir Krankenversicherung AG"
+  "name": "Avenir Krankenversicherung AG",
+  "location": "1919 Martigny"
 }, {
   "id": 1322,
-  "name": "Birchmeier"
+  "name": "Birchmeier",
+  "location": "5444 Künten"
 }, {
   "id": 1575,
-  "name": "Compact"
+  "name": "Compact",
+  "location": "8021 Zürich"
 }, {
   "id": 290,
-  "name": "CONCORDIA"
+  "name": "CONCORDIA",
+  "location": "6002 Luzern"
 }, {
   "id": 8,
-  "name": "CSS"
+  "name": "CSS",
+  "location": "6002 Luzern"
 }, {
   "id": 774,
-  "name": "Easy Sana Krankenversicherung AG"
+  "name": "Easy Sana Krankenversicherung AG",
+  "location": "1919 Martigny"
 }, {
   "id": 881,
-  "name": "EGK"
+  "name": "EGK",
+  "location": "4242 Laufen"
 }, {
   "id": 134,
-  "name": "Einsiedeln"
+  "name": "Einsiedeln",
+  "location": "8840 Einsiedeln"
 }, {
   "id": 1386,
-  "name": "GALENOS"
+  "name": "GALENOS",
+  "location": "8023 Zürich"
 }, {
   "id": 780,
-  "name": "Glarner"
+  "name": "Glarner",
+  "location": "8762 Schwanden"
 }, {
   "id": 1562,
-  "name": "Helsana"
+  "name": "Helsana",
+  "location": "8600 Dübendorf"
 }, {
   "id": 1573,
-  "name": "indivo"
+  "name": "indivo",
+  "location": "8600 Dübendorf"
 }, {
   "id": 1142,
-  "name": "Ingenbohl"
+  "name": "Ingenbohl",
+  "location": "6440 Brunnen"
 }, {
   "id": 1529,
-  "name": "INTRAS"
+  "name": "INTRAS",
+  "location": "1000 Lausanne"
 }, {
   "id": 829,
-  "name": "KLuG"
+  "name": "KLuG",
+  "location": "6300 Zug"
 }, {
   "id": 1328,
-  "name": "kmu"
+  "name": "kmu",
+  "location": "8410 Winterthur"
 }, {
   "id": 762,
-  "name": "Kolping"
+  "name": "Kolping",
+  "location": "8601 Dübendorf"
 }, {
   "id": 376,
-  "name": "KPT/CPT"
+  "name": "KPT/CPT",
+  "location": "3000 Bern"
 }, {
   "id": 558,
-  "name": "KVF Krankenversicherung AG"
+  "name": "KVF Krankenversicherung AG",
+  "location": "7302 Landquart"
 }, {
   "id": 820,
-  "name": "Lumneziana"
+  "name": "Lumneziana",
+  "location": "7144 Vella"
 }, {
   "id": 360,
-  "name": "Luzerner Hinterland"
+  "name": "Luzerner Hinterland",
+  "location": "6144 Zell"
 }, {
   "id": 57,
-  "name": "Moove Sympany AG"
+  "name": "Moove Sympany AG",
+  "location": "4052 Basel"
 }, {
   "id": 1479,
-  "name": "Mutuel Krankenversicherung AG"
+  "name": "Mutuel Krankenversicherung AG",
+  "location": "1919 Martigny"
 }, {
   "id": 455,
-  "name": "ÖKK"
+  "name": "ÖKK",
+  "location": "7302 Landquart"
 }, {
   "id": 1535,
-  "name": "Philos Krankenversicherung AG"
+  "name": "Philos Krankenversicherung AG",
+  "location": "1919 Martigny"
 }, {
   "id": 994,
-  "name": "Progrès"
+  "name": "Progrès",
+  "location": "8600 Dübendorf"
 }, {
   "id": 182,
-  "name": "PROVITA"
+  "name": "PROVITA",
+  "location": "8401 Winterthur"
 }, {
   "id": 1401,
-  "name": "rhenusana"
+  "name": "rhenusana",
+  "location": "9435 Heerbrugg"
 }, {
   "id": 1568,
-  "name": "sana24"
+  "name": "sana24",
+  "location": "3000 Bern"
 }, {
   "id": 1577,
-  "name": "Sanagate"
+  "name": "Sanagate",
+  "location": "6002 Luzern"
 }, {
   "id": 901,
-  "name": "sanavals"
+  "name": "sanavals",
+  "location": "7132 Vals"
 }, {
   "id": 1509,
-  "name": "Sanitas"
+  "name": "Sanitas",
+  "location": "8021 Zürich"
 }, {
   "id": 1362,
-  "name": "Simplon"
+  "name": "Simplon",
+  "location": "3907 Simplon Dorf"
 }, {
   "id": 923,
-  "name": "SLKK"
+  "name": "SLKK",
+  "location": "8042 Zürich"
 }, {
   "id": 941,
-  "name": "sodalis"
+  "name": "sodalis",
+  "location": "3930 Visp"
 }, {
   "id": 246,
-  "name": "Steffisburg"
+  "name": "Steffisburg",
+  "location": "3612 Steffisburg"
 }, {
   "id": 1331,
-  "name": "Stoffel"
+  "name": "Stoffel",
+  "location": "8887 Mels"
 }, {
   "id": 194,
-  "name": "Sumiswalder"
+  "name": "Sumiswalder",
+  "location": "3454 Sumiswald"
 }, {
   "id": 62,
-  "name": "SUPRA-1846 SA"
+  "name": "SUPRA-1846 SA",
+  "location": "1000 Lausanne"
 }, {
   "id": 1384,
-  "name": "SWICA"
+  "name": "SWICA",
+  "location": "8401 Winterthur"
 }, {
   "id": 1147,
-  "name": "Turbenthal"
+  "name": "Turbenthal",
+  "location": "8488 Turbenthal"
 }, {
   "id": 1113,
-  "name": "Vallée d’Entremont"
+  "name": "Vallée d’Entremont",
+  "location": "1937 Orsières"
 }, {
   "id": 1555,
-  "name": "Visana"
+  "name": "Visana",
+  "location": "3000 Bern"
 }, {
   "id": 1040,
-  "name": "Visperterminen"
+  "name": "Visperterminen",
+  "location": "3932 Visperterminen"
 }, {
   "id": 966,
-  "name": "vita surselva"
+  "name": "vita surselva",
+  "location": "7130 Ilanz"
 }, {
   "id": 1570,
-  "name": "Vivacare"
+  "name": "Vivacare",
+  "location": "3000 Bern"
 }, {
   "id": 509,
-  "name": "Vivao Sympany"
+  "name": "Vivao Sympany",
+  "location": "4001 Basel"
 }, {
   "id": 1318,
-  "name": "Wädenswil"
+  "name": "Wädenswil",
+  "location": "8820 Wädenswil"
 }]
