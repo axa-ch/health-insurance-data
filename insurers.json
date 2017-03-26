@@ -27,6 +27,11 @@
   "name": "Avenir Krankenversicherung AG",
   "location": "1919 Martigny"
 }, {
+  "id": 1402,
+  "name": "Bildende Künstler/Innen",
+  "location": "8022 Zürich",
+  "dailySicknessBenefitsInsuranceOnly": true
+}, {
   "id": 1322,
   "name": "Birchmeier",
   "location": "5444 Künten"
@@ -55,9 +60,19 @@
   "name": "Einsiedeln",
   "location": "8840 Einsiedeln"
 }, {
+  "id": 1540,
+  "name": "Fenaco-Mitgliedgenossenschaften",
+  "location": "8401 Winterthur",
+  "dailySicknessBenefitsInsuranceOnly": true
+}, {
   "id": 1386,
   "name": "GALENOS",
   "location": "8023 Zürich"
+}, {
+  "id": 1491,
+  "name": "Gewerbliche",
+  "location": "3001 Bern",
+  "dailySicknessBenefitsInsuranceOnly": true
 }, {
   "id": 780,
   "name": "Glarner",
@@ -66,6 +81,11 @@
   "id": 1562,
   "name": "Helsana",
   "location": "8600 Dübendorf"
+}, {
+  "id": 1520,
+  "name": "Hotela",
+  "location": "1820 Montreux",
+  "dailySicknessBenefitsInsuranceOnly": true
 }, {
   "id": 1573,
   "name": "indivo",
@@ -106,6 +126,11 @@
   "id": 360,
   "name": "Luzerner Hinterland",
   "location": "6144 Zell"
+}, {
+  "id": 1522,
+  "name": "Metallbaufirmen",
+  "location": "8051 Zürich",
+  "dailySicknessBenefitsInsuranceOnly": true
 }, {
   "id": 57,
   "name": "Moove Sympany AG",
@@ -190,6 +215,11 @@
   "id": 1113,
   "name": "Vallée d’Entremont",
   "location": "1937 Orsières"
+}, {
+  "id": 1179,
+  "name": "Ville de Neuchâtel",
+  "location": "2000 Neuchâtel",
+  "dailySicknessBenefitsInsuranceOnly": true
 }, {
   "id": 1555,
   "name": "Visana",
