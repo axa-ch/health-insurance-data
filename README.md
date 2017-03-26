@@ -4,7 +4,7 @@
 
 ### Download
 
-* [.json](insurers.json)
+* [.json](https://raw.githubusercontent.com/axa-ch/health-insurance-data/master/insurers.json)
 
 ### Structure
 
